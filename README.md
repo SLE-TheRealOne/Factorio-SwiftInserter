@@ -15,8 +15,10 @@ Swift inserter is volontary both expansive (both research and build cost) and re
 * French
 
 ### Install
-Classic installation : unzip like any other mod.
-More details [here](https://wiki.factorio.com/index.php?title=Installing_Mods)
+Classic installation : unzip like any other mod ; more details [here](https://wiki.factorio.com/index.php?title=Installing_Mods)
+
+Latest release is available [here](https://github.com/SLE-TheRealOne/Factorio-SwiftInserter/releases)
+
 
 ### Screenshots
 
