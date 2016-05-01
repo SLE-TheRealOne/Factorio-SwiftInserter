@@ -10,9 +10,14 @@ Swift inserter is a mod for Factorio based on Simple_AOB ULtra Inserters mod wic
 
 Swift inserter is volontary both expansive (both research and build cost) and really fast => it's not made to replace **all** fast-inserters but to provide specific load/unload speed to some key factory points (such as train unloads or critical build machines)
 
+### Locals
+* English
+* French
+
 ### Install
 Classic installation : unzip like any other mod.
 More details [here](https://wiki.factorio.com/index.php?title=Installing_Mods)
 
 ### Screenshots
-To come...
+
+![Screenshot](https://github.com/SLE-TheRealOne/Factorio-SwiftInserter/blob/master/graphics/Screenshots-Research.jpg)
