@@ -1,0 +1,9 @@
+{
+  "name": "SwiftInserter",
+  "version": "1.0.0",
+  "title": "SwiftInserter",
+  "author": "SamyLerari",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "This mod is based on Simple_AOB ULtra Inserters mod wich added an upgrade to fast-inserter. This mod makes this upgrade more expansive and more coherent with other upgrades of the game"
+}
